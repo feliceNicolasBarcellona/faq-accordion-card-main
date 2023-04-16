@@ -1,7 +1,6 @@
 @media only screen and (max-width: 768px) {
   main {
     max-width: 64rem;
-    height: 98vh;
   }
 
   .card {
